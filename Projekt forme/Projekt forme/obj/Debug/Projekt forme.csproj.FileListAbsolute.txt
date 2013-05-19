@@ -1,9 +1,0 @@
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\bin\Debug\Projekt forme.exe.config
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\bin\Debug\Projekt forme.exe
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\bin\Debug\Projekt forme.pdb
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt forme.csprojResolveAssemblyReference.cache
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmPrijava.resources
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.Properties.Resources.resources
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt forme.csproj.GenerateResource.Cache
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt forme.exe
-D:\PI PROJEKT\GitHub\PI2013t14\Projekt forme\Projekt forme\obj\Debug\Projekt forme.pdb
