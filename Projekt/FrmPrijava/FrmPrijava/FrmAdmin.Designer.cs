@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAdmin));
             this.btnUsluge = new System.Windows.Forms.Button();
             this.btnCjenici = new System.Windows.Forms.Button();
             this.btnCRM = new System.Windows.Forms.Button();
@@ -107,6 +108,7 @@
             this.Controls.Add(this.btnCRM);
             this.Controls.Add(this.btnCjenici);
             this.Controls.Add(this.btnUsluge);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmAdmin";
             this.Text = "Administrator";
             this.ResumeLayout(false);

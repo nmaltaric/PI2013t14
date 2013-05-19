@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmKreirajCjenik));
             this.dgvPregledUsluga = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
             this.btnPohraniCjenik = new System.Windows.Forms.Button();
@@ -126,6 +127,7 @@
             this.Controls.Add(this.btnPohraniCjenik);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dgvPregledUsluga);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmKreirajCjenik";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kreiraj cjenik";

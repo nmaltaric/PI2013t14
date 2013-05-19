@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmNoviRacun));
             this.dgvPregledStavki = new System.Windows.Forms.DataGridView();
             this.btnPohrani = new System.Windows.Forms.Button();
             this.txtOpisPopusta = new System.Windows.Forms.TextBox();
@@ -126,6 +127,7 @@
             this.Controls.Add(this.btnPohrani);
             this.Controls.Add(this.txtOpisPopusta);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmNoviRacun";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Novi račun";

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPregledObavijesti));
             this.listaObavijesti = new System.Windows.Forms.ListBox();
             this.btnIsprazni = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -56,6 +57,7 @@
             this.ClientSize = new System.Drawing.Size(558, 293);
             this.Controls.Add(this.btnIsprazni);
             this.Controls.Add(this.listaObavijesti);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmPregledObavijesti";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pregled obavijesti";

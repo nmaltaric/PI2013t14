@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmKorisnik));
             this.btnOdjava = new System.Windows.Forms.Button();
             this.btnNoviRacun = new System.Windows.Forms.Button();
             this.btnKlijenti = new System.Windows.Forms.Button();
@@ -95,6 +96,7 @@
             this.Controls.Add(this.btnKlijenti);
             this.Controls.Add(this.btnPregledObavijesti);
             this.Controls.Add(this.btnPregledCjenika);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmKorisnik";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Korisničko sučelje";
