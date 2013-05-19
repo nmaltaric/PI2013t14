@@ -39,12 +39,17 @@
             this.label1 = new System.Windows.Forms.Label();
             this.rbtnZensko = new System.Windows.Forms.RadioButton();
             this.rbtnMusko = new System.Windows.Forms.RadioButton();
+            this.label2 = new System.Windows.Forms.Label();
+            this.rbtnDaNews = new System.Windows.Forms.RadioButton();
+            this.rbtnNeNews = new System.Windows.Forms.RadioButton();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtBrojTel = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledKlijenata)).BeginInit();
             this.SuspendLayout();
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(131, 205);
+            this.txtEmail.Location = new System.Drawing.Point(363, 156);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(152, 20);
             this.txtEmail.TabIndex = 35;
@@ -52,7 +57,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(43, 212);
+            this.label6.Location = new System.Drawing.Point(271, 163);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(32, 13);
             this.label6.TabIndex = 34;
@@ -78,14 +83,14 @@
             // 
             // txtPrezime
             // 
-            this.txtPrezime.Location = new System.Drawing.Point(131, 156);
+            this.txtPrezime.Location = new System.Drawing.Point(100, 156);
             this.txtPrezime.Name = "txtPrezime";
             this.txtPrezime.Size = new System.Drawing.Size(152, 20);
             this.txtPrezime.TabIndex = 29;
             // 
             // txtIme
             // 
-            this.txtIme.Location = new System.Drawing.Point(131, 130);
+            this.txtIme.Location = new System.Drawing.Point(100, 130);
             this.txtIme.Name = "txtIme";
             this.txtIme.Size = new System.Drawing.Size(152, 20);
             this.txtIme.TabIndex = 28;
@@ -100,7 +105,7 @@
             // 
             // btnUnesi
             // 
-            this.btnUnesi.Location = new System.Drawing.Point(131, 249);
+            this.btnUnesi.Location = new System.Drawing.Point(100, 215);
             this.btnUnesi.Name = "btnUnesi";
             this.btnUnesi.Size = new System.Drawing.Size(121, 20);
             this.btnUnesi.TabIndex = 26;
@@ -119,7 +124,7 @@
             // rbtnZensko
             // 
             this.rbtnZensko.AutoSize = true;
-            this.rbtnZensko.Location = new System.Drawing.Point(131, 182);
+            this.rbtnZensko.Location = new System.Drawing.Point(100, 182);
             this.rbtnZensko.Name = "rbtnZensko";
             this.rbtnZensko.Size = new System.Drawing.Size(32, 17);
             this.rbtnZensko.TabIndex = 36;
@@ -130,7 +135,7 @@
             // rbtnMusko
             // 
             this.rbtnMusko.AutoSize = true;
-            this.rbtnMusko.Location = new System.Drawing.Point(177, 182);
+            this.rbtnMusko.Location = new System.Drawing.Point(149, 182);
             this.rbtnMusko.Name = "rbtnMusko";
             this.rbtnMusko.Size = new System.Drawing.Size(34, 17);
             this.rbtnMusko.TabIndex = 37;
@@ -138,11 +143,63 @@
             this.rbtnMusko.Text = "M";
             this.rbtnMusko.UseVisualStyleBackColor = true;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(271, 189);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(57, 13);
+            this.label2.TabIndex = 38;
+            this.label2.Text = "Newsletter";
+            // 
+            // rbtnDaNews
+            // 
+            this.rbtnDaNews.AutoSize = true;
+            this.rbtnDaNews.Location = new System.Drawing.Point(363, 185);
+            this.rbtnDaNews.Name = "rbtnDaNews";
+            this.rbtnDaNews.Size = new System.Drawing.Size(39, 17);
+            this.rbtnDaNews.TabIndex = 39;
+            this.rbtnDaNews.TabStop = true;
+            this.rbtnDaNews.Text = "Da";
+            this.rbtnDaNews.UseVisualStyleBackColor = true;
+            // 
+            // rbtnNeNews
+            // 
+            this.rbtnNeNews.AutoSize = true;
+            this.rbtnNeNews.Location = new System.Drawing.Point(420, 185);
+            this.rbtnNeNews.Name = "rbtnNeNews";
+            this.rbtnNeNews.Size = new System.Drawing.Size(39, 17);
+            this.rbtnNeNews.TabIndex = 40;
+            this.rbtnNeNews.TabStop = true;
+            this.rbtnNeNews.Text = "Ne";
+            this.rbtnNeNews.UseVisualStyleBackColor = true;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(271, 137);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(66, 13);
+            this.label3.TabIndex = 41;
+            this.label3.Text = "Broj telefona";
+            // 
+            // txtBrojTel
+            // 
+            this.txtBrojTel.Location = new System.Drawing.Point(363, 130);
+            this.txtBrojTel.Name = "txtBrojTel";
+            this.txtBrojTel.Size = new System.Drawing.Size(152, 20);
+            this.txtBrojTel.TabIndex = 42;
+            // 
             // FrmKlijenti
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(558, 293);
+            this.ClientSize = new System.Drawing.Size(558, 258);
+            this.Controls.Add(this.txtBrojTel);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.rbtnNeNews);
+            this.Controls.Add(this.rbtnDaNews);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.rbtnMusko);
             this.Controls.Add(this.rbtnZensko);
             this.Controls.Add(this.txtEmail);
@@ -176,5 +233,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.RadioButton rbtnZensko;
         private System.Windows.Forms.RadioButton rbtnMusko;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.RadioButton rbtnDaNews;
+        private System.Windows.Forms.RadioButton rbtnNeNews;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txtBrojTel;
     }
 }
