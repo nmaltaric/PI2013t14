@@ -19,3 +19,6 @@ C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmNoviRa
 C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmSviCjenici.resources
 C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKreirajCjenik.resources
 C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAktivanCjenik.resources
+D:\PI PROJEKT\GitHub\PI2013t14\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe.config
+D:\PI PROJEKT\GitHub\PI2013t14\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.exe
+D:\PI PROJEKT\GitHub\PI2013t14\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.pdb
