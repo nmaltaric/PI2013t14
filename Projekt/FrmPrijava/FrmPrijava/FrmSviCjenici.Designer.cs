@@ -32,6 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.dgvPregledStavaka = new System.Windows.Forms.DataGridView();
+            this.btnPrimjeni = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledCjenika)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledStavaka)).BeginInit();
             this.SuspendLayout();
@@ -56,7 +57,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(29, 147);
+            this.label2.Location = new System.Drawing.Point(29, 156);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(78, 13);
             this.label2.TabIndex = 2;
@@ -65,16 +66,26 @@
             // dgvPregledStavaka
             // 
             this.dgvPregledStavaka.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPregledStavaka.Location = new System.Drawing.Point(32, 175);
+            this.dgvPregledStavaka.Location = new System.Drawing.Point(32, 183);
             this.dgvPregledStavaka.Name = "dgvPregledStavaka";
             this.dgvPregledStavaka.Size = new System.Drawing.Size(493, 87);
             this.dgvPregledStavaka.TabIndex = 3;
+            // 
+            // btnPrimjeni
+            // 
+            this.btnPrimjeni.Location = new System.Drawing.Point(389, 127);
+            this.btnPrimjeni.Name = "btnPrimjeni";
+            this.btnPrimjeni.Size = new System.Drawing.Size(136, 28);
+            this.btnPrimjeni.TabIndex = 4;
+            this.btnPrimjeni.Text = "Primjeni";
+            this.btnPrimjeni.UseVisualStyleBackColor = true;
             // 
             // FrmSviCjenici
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 293);
+            this.Controls.Add(this.btnPrimjeni);
             this.Controls.Add(this.dgvPregledStavaka);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -95,5 +106,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DataGridView dgvPregledStavaka;
+        private System.Windows.Forms.Button btnPrimjeni;
     }
 }

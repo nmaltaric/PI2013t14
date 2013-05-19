@@ -21,9 +21,9 @@ namespace FrmPrijava
         {
             this.Hide();
 
-            FrmSviCjenici frmSviCjenici = new FrmSviCjenici();
+            FrmAktivanCjenik frmAktivanCjenik = new FrmAktivanCjenik();
 
-            frmSviCjenici.ShowDialog();
+            frmAktivanCjenik.ShowDialog();
 
             this.Show();
         }

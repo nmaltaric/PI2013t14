@@ -39,8 +39,8 @@
             this.txtLozinka = new System.Windows.Forms.TextBox();
             this.txtKorisnickoIme = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.chboxKorisnik = new System.Windows.Forms.CheckBox();
-            this.chboxAdministrator = new System.Windows.Forms.CheckBox();
+            this.rbtnKorisnik = new System.Windows.Forms.RadioButton();
+            this.rbtnAdministrator = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledKorisnika)).BeginInit();
             this.SuspendLayout();
             // 
@@ -134,33 +134,35 @@
             this.label2.TabIndex = 26;
             this.label2.Text = "Tip korisnika";
             // 
-            // chboxKorisnik
+            // rbtnKorisnik
             // 
-            this.chboxKorisnik.AutoSize = true;
-            this.chboxKorisnik.Location = new System.Drawing.Point(338, 149);
-            this.chboxKorisnik.Name = "chboxKorisnik";
-            this.chboxKorisnik.Size = new System.Drawing.Size(63, 17);
-            this.chboxKorisnik.TabIndex = 27;
-            this.chboxKorisnik.Text = "Korisnik";
-            this.chboxKorisnik.UseVisualStyleBackColor = true;
+            this.rbtnKorisnik.AutoSize = true;
+            this.rbtnKorisnik.Location = new System.Drawing.Point(338, 149);
+            this.rbtnKorisnik.Name = "rbtnKorisnik";
+            this.rbtnKorisnik.Size = new System.Drawing.Size(62, 17);
+            this.rbtnKorisnik.TabIndex = 29;
+            this.rbtnKorisnik.TabStop = true;
+            this.rbtnKorisnik.Text = "Korisnik";
+            this.rbtnKorisnik.UseVisualStyleBackColor = true;
             // 
-            // chboxAdministrator
+            // rbtnAdministrator
             // 
-            this.chboxAdministrator.AutoSize = true;
-            this.chboxAdministrator.Location = new System.Drawing.Point(407, 149);
-            this.chboxAdministrator.Name = "chboxAdministrator";
-            this.chboxAdministrator.Size = new System.Drawing.Size(86, 17);
-            this.chboxAdministrator.TabIndex = 28;
-            this.chboxAdministrator.Text = "Administrator";
-            this.chboxAdministrator.UseVisualStyleBackColor = true;
+            this.rbtnAdministrator.AutoSize = true;
+            this.rbtnAdministrator.Location = new System.Drawing.Point(419, 149);
+            this.rbtnAdministrator.Name = "rbtnAdministrator";
+            this.rbtnAdministrator.Size = new System.Drawing.Size(85, 17);
+            this.rbtnAdministrator.TabIndex = 30;
+            this.rbtnAdministrator.TabStop = true;
+            this.rbtnAdministrator.Text = "Administrator";
+            this.rbtnAdministrator.UseVisualStyleBackColor = true;
             // 
             // FrmKorisnici
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 244);
-            this.Controls.Add(this.chboxAdministrator);
-            this.Controls.Add(this.chboxKorisnik);
+            this.Controls.Add(this.rbtnAdministrator);
+            this.Controls.Add(this.rbtnKorisnik);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtKorisnickoIme);
             this.Controls.Add(this.txtLozinka);
@@ -194,8 +196,8 @@
         private System.Windows.Forms.TextBox txtLozinka;
         private System.Windows.Forms.TextBox txtKorisnickoIme;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.CheckBox chboxKorisnik;
-        private System.Windows.Forms.CheckBox chboxAdministrator;
+        private System.Windows.Forms.RadioButton rbtnKorisnik;
+        private System.Windows.Forms.RadioButton rbtnAdministrator;
 
 
     }

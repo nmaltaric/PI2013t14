@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FrmPrijava.FrmAdmin" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAACEAABDAAABAAAgBwBAAAAAAAE=</HashCode>
+      <FileName>FrmAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmKreirajCjenik">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQABAAAACBAAACAAAAIAAAAEAkAAEAAAA=</HashCode>
+      <FileName>FrmCjenici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmCRM" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABAAAACAAAACAAAAAAAABEAAAACEAAA=</HashCode>
+      <FileName>FrmCRM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmKlijenti" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAACAAgBAAAACAAAACAAAQCIAAAAAAAACAAAA=</HashCode>
+      <FileName>FrmKlijenti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmKorisnici" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgQIAAACAAABAAAACAgAICAAAQAAAAAAAAAACAAAA=</HashCode>
+      <FileName>FrmKorisnici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmKorisnik" Collapsed="true">
+    <Position X="3" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAEAABAACAAIgAAAACEEAECAAAAAAAAAQAAAAAAAAE=</HashCode>
+      <FileName>FrmKorisnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmNoviRacun" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAQAACgAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>FrmNoviRacun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmPostavkeRacuna" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAEIEAACAAAAAAAAAAA=</HashCode>
+      <FileName>FrmPostavkeRacuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmPregledObavijesti" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>FrmPregledObavijesti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmPrijava" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABAAAACABAICAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>FrmPrijava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmSviCjenici" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAEBAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrmSviCjenici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.FrmUsluge" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQCAAwRAAAACAAAACAAAAAAAAgAAAAACAAAA=</HashCode>
+      <FileName>FrmUsluge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.Program">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.Properties.Resources" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmPrijava.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

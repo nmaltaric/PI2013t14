@@ -33,8 +33,9 @@
             this.txtOpisPopusta = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.chboxR1 = new System.Windows.Forms.CheckBox();
-            this.chboxNormalni = new System.Windows.Forms.CheckBox();
+            this.rbtnR1 = new System.Windows.Forms.RadioButton();
+            this.rbtnR = new System.Windows.Forms.RadioButton();
+            this.rbtnR2 = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledStavki)).BeginInit();
             this.SuspendLayout();
             // 
@@ -80,33 +81,46 @@
             this.label4.TabIndex = 17;
             this.label4.Text = "Stavke računa";
             // 
-            // chboxR1
+            // rbtnR1
             // 
-            this.chboxR1.AutoSize = true;
-            this.chboxR1.Location = new System.Drawing.Point(119, 186);
-            this.chboxR1.Name = "chboxR1";
-            this.chboxR1.Size = new System.Drawing.Size(40, 17);
-            this.chboxR1.TabIndex = 18;
-            this.chboxR1.Text = "R1";
-            this.chboxR1.UseVisualStyleBackColor = true;
+            this.rbtnR1.AutoSize = true;
+            this.rbtnR1.Location = new System.Drawing.Point(170, 186);
+            this.rbtnR1.Name = "rbtnR1";
+            this.rbtnR1.Size = new System.Drawing.Size(39, 17);
+            this.rbtnR1.TabIndex = 20;
+            this.rbtnR1.Text = "R1";
+            this.rbtnR1.UseVisualStyleBackColor = true;
             // 
-            // chboxNormalni
+            // rbtnR
             // 
-            this.chboxNormalni.AutoSize = true;
-            this.chboxNormalni.Location = new System.Drawing.Point(178, 186);
-            this.chboxNormalni.Name = "chboxNormalni";
-            this.chboxNormalni.Size = new System.Drawing.Size(67, 17);
-            this.chboxNormalni.TabIndex = 19;
-            this.chboxNormalni.Text = "Normalni";
-            this.chboxNormalni.UseVisualStyleBackColor = true;
+            this.rbtnR.AutoSize = true;
+            this.rbtnR.Checked = true;
+            this.rbtnR.Location = new System.Drawing.Point(119, 186);
+            this.rbtnR.Name = "rbtnR";
+            this.rbtnR.Size = new System.Drawing.Size(33, 17);
+            this.rbtnR.TabIndex = 21;
+            this.rbtnR.TabStop = true;
+            this.rbtnR.Text = "R";
+            this.rbtnR.UseVisualStyleBackColor = true;
+            // 
+            // rbtnR2
+            // 
+            this.rbtnR2.AutoSize = true;
+            this.rbtnR2.Location = new System.Drawing.Point(228, 186);
+            this.rbtnR2.Name = "rbtnR2";
+            this.rbtnR2.Size = new System.Drawing.Size(39, 17);
+            this.rbtnR2.TabIndex = 22;
+            this.rbtnR2.Text = "R2";
+            this.rbtnR2.UseVisualStyleBackColor = true;
             // 
             // FrmNoviRacun
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 277);
-            this.Controls.Add(this.chboxNormalni);
-            this.Controls.Add(this.chboxR1);
+            this.Controls.Add(this.rbtnR2);
+            this.Controls.Add(this.rbtnR);
+            this.Controls.Add(this.rbtnR1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.dgvPregledStavki);
             this.Controls.Add(this.btnPohrani);
@@ -128,7 +142,8 @@
         private System.Windows.Forms.TextBox txtOpisPopusta;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.CheckBox chboxR1;
-        private System.Windows.Forms.CheckBox chboxNormalni;
+        private System.Windows.Forms.RadioButton rbtnR1;
+        private System.Windows.Forms.RadioButton rbtnR;
+        private System.Windows.Forms.RadioButton rbtnR2;
     }
 }

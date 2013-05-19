@@ -34,8 +34,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.dtpDatumKreiranja = new System.Windows.Forms.DateTimePicker();
             this.btnPrikaziCjenike = new System.Windows.Forms.Button();
-            this.cboxAktivan = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.rbtnAktivan = new System.Windows.Forms.RadioButton();
+            this.rbtnNeaktivan = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledUsluga)).BeginInit();
             this.SuspendLayout();
             // 
@@ -91,33 +91,35 @@
             this.btnPrikaziCjenike.UseVisualStyleBackColor = true;
             this.btnPrikaziCjenike.Click += new System.EventHandler(this.button1_Click);
             // 
-            // cboxAktivan
+            // rbtnAktivan
             // 
-            this.cboxAktivan.AutoSize = true;
-            this.cboxAktivan.Location = new System.Drawing.Point(306, 169);
-            this.cboxAktivan.Name = "cboxAktivan";
-            this.cboxAktivan.Size = new System.Drawing.Size(62, 17);
-            this.cboxAktivan.TabIndex = 34;
-            this.cboxAktivan.Text = "Aktivan";
-            this.cboxAktivan.UseVisualStyleBackColor = true;
+            this.rbtnAktivan.AutoSize = true;
+            this.rbtnAktivan.Location = new System.Drawing.Point(306, 172);
+            this.rbtnAktivan.Name = "rbtnAktivan";
+            this.rbtnAktivan.Size = new System.Drawing.Size(61, 17);
+            this.rbtnAktivan.TabIndex = 36;
+            this.rbtnAktivan.TabStop = true;
+            this.rbtnAktivan.Text = "Aktivan";
+            this.rbtnAktivan.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // rbtnNeaktivan
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(388, 169);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(75, 17);
-            this.checkBox2.TabIndex = 35;
-            this.checkBox2.Text = "Neaktivan";
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.rbtnNeaktivan.AutoSize = true;
+            this.rbtnNeaktivan.Location = new System.Drawing.Point(387, 171);
+            this.rbtnNeaktivan.Name = "rbtnNeaktivan";
+            this.rbtnNeaktivan.Size = new System.Drawing.Size(74, 17);
+            this.rbtnNeaktivan.TabIndex = 37;
+            this.rbtnNeaktivan.TabStop = true;
+            this.rbtnNeaktivan.Text = "Neaktivan";
+            this.rbtnNeaktivan.UseVisualStyleBackColor = true;
             // 
             // FrmKreirajCjenik
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 293);
-            this.Controls.Add(this.checkBox2);
-            this.Controls.Add(this.cboxAktivan);
+            this.Controls.Add(this.rbtnNeaktivan);
+            this.Controls.Add(this.rbtnAktivan);
             this.Controls.Add(this.btnPrikaziCjenike);
             this.Controls.Add(this.dtpDatumKreiranja);
             this.Controls.Add(this.label1);
@@ -141,7 +143,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DateTimePicker dtpDatumKreiranja;
         private System.Windows.Forms.Button btnPrikaziCjenike;
-        private System.Windows.Forms.CheckBox cboxAktivan;
-        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.RadioButton rbtnAktivan;
+        private System.Windows.Forms.RadioButton rbtnNeaktivan;
     }
 }

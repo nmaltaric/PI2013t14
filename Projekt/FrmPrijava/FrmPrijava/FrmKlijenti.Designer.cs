@@ -30,8 +30,6 @@
         {
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.chboxMusko = new System.Windows.Forms.CheckBox();
-            this.chboxZensko = new System.Windows.Forms.CheckBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.txtPrezime = new System.Windows.Forms.TextBox();
@@ -39,6 +37,8 @@
             this.dgvPregledKlijenata = new System.Windows.Forms.DataGridView();
             this.btnUnesi = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.rbtnZensko = new System.Windows.Forms.RadioButton();
+            this.rbtnMusko = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPregledKlijenata)).BeginInit();
             this.SuspendLayout();
             // 
@@ -57,26 +57,6 @@
             this.label6.Size = new System.Drawing.Size(32, 13);
             this.label6.TabIndex = 34;
             this.label6.Text = "Email";
-            // 
-            // chboxMusko
-            // 
-            this.chboxMusko.AutoSize = true;
-            this.chboxMusko.Location = new System.Drawing.Point(172, 185);
-            this.chboxMusko.Name = "chboxMusko";
-            this.chboxMusko.Size = new System.Drawing.Size(35, 17);
-            this.chboxMusko.TabIndex = 33;
-            this.chboxMusko.Text = "M";
-            this.chboxMusko.UseVisualStyleBackColor = true;
-            // 
-            // chboxZensko
-            // 
-            this.chboxZensko.AutoSize = true;
-            this.chboxZensko.Location = new System.Drawing.Point(131, 185);
-            this.chboxZensko.Name = "chboxZensko";
-            this.chboxZensko.Size = new System.Drawing.Size(33, 17);
-            this.chboxZensko.TabIndex = 32;
-            this.chboxZensko.Text = "Ž";
-            this.chboxZensko.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -136,15 +116,37 @@
             this.label1.TabIndex = 25;
             this.label1.Text = "Ime";
             // 
+            // rbtnZensko
+            // 
+            this.rbtnZensko.AutoSize = true;
+            this.rbtnZensko.Location = new System.Drawing.Point(131, 182);
+            this.rbtnZensko.Name = "rbtnZensko";
+            this.rbtnZensko.Size = new System.Drawing.Size(32, 17);
+            this.rbtnZensko.TabIndex = 36;
+            this.rbtnZensko.TabStop = true;
+            this.rbtnZensko.Text = "Ž";
+            this.rbtnZensko.UseVisualStyleBackColor = true;
+            // 
+            // rbtnMusko
+            // 
+            this.rbtnMusko.AutoSize = true;
+            this.rbtnMusko.Location = new System.Drawing.Point(177, 182);
+            this.rbtnMusko.Name = "rbtnMusko";
+            this.rbtnMusko.Size = new System.Drawing.Size(34, 17);
+            this.rbtnMusko.TabIndex = 37;
+            this.rbtnMusko.TabStop = true;
+            this.rbtnMusko.Text = "M";
+            this.rbtnMusko.UseVisualStyleBackColor = true;
+            // 
             // FrmKlijenti
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 293);
+            this.Controls.Add(this.rbtnMusko);
+            this.Controls.Add(this.rbtnZensko);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.chboxMusko);
-            this.Controls.Add(this.chboxZensko);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtPrezime);
@@ -165,8 +167,6 @@
 
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.CheckBox chboxMusko;
-        private System.Windows.Forms.CheckBox chboxZensko;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtPrezime;
@@ -174,5 +174,7 @@
         private System.Windows.Forms.DataGridView dgvPregledKlijenata;
         private System.Windows.Forms.Button btnUnesi;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.RadioButton rbtnZensko;
+        private System.Windows.Forms.RadioButton rbtnMusko;
     }
 }
