@@ -1,0 +1,90 @@
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe.config
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.pdb
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAdmin.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPrijava.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.Properties.Resources.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csproj.GenerateResource.Cache
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.exe
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.pdb
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnik.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csprojResolveAssemblyReference.cache
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmUsluge.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmCRM.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnici.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPostavkeRacuna.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKlijenti.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPregledObavijesti.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmNoviRacun.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmSviCjenici.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKreirajCjenik.resources
+C:\Users\JM\Desktop\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAktivanCjenik.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe.config
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.exe
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.pdb
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.pdb
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csprojResolveAssemblyReference.cache
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAktivanCjenik.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmSviCjenici.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAdmin.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKreirajCjenik.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmCRM.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKlijenti.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnici.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnik.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmNoviRacun.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPostavkeRacuna.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPregledObavijesti.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPrijava.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmUsluge.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.Properties.Resources.resources
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csproj.GenerateResource.Cache
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI.mdf
+C:\Users\JM\Desktop\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI_log.ldf
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe.config
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.exe
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.pdb
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI.mdf
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI_log.ldf
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.pdb
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csprojResolveAssemblyReference.cache
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAktivanCjenik.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmSviCjenici.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAdmin.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKreirajCjenik.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmCRM.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKlijenti.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnici.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnik.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmNoviRacun.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPostavkeRacuna.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPregledObavijesti.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPrijava.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmUsluge.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.Properties.Resources.resources
+D:\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csproj.GenerateResource.Cache
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe.config
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.exe
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.pdb
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI.mdf
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\BazaPI_log.ldf
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.exe
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\bin\Debug\FrmPrijava.pdb
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csprojResolveAssemblyReference.cache
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAktivanCjenik.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmSviCjenici.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmAdmin.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKreirajCjenik.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmCRM.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKlijenti.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnici.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmKorisnik.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmNoviRacun.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPostavkeRacuna.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPregledObavijesti.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmPrijava.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.FrmUsluge.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\FrmPrijava.Properties.Resources.resources
+D:\proba\Tim 14 - CRM.NET\Projekt\FrmPrijava\FrmPrijava\obj\Debug\PROJEKT.csproj.GenerateResource.Cache
